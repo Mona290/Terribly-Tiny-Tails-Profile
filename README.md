@@ -28,7 +28,7 @@ To run this application locally, follow these steps:
 
 2.Navigate to the project directory: 
 
-  cd terribly-tiny-tales-react-app
+      cd terribly-tiny-tales-react-app
 
 3.Install dependencies:
 
@@ -46,15 +46,15 @@ Explore the Navbar to navigate between different sections and view the Maininfo 
 
 # Components
 
-Navbar Component
+Navbar Component:
 
 The Navbar component serves as the navigation bar for the application, providing links or routes to various sections or pages.
 
-Maininfo Component
+Maininfo Component:
 
 The Maininfo component is responsible for displaying the main content or information of the application.
 
-Subinfo Component
+Subinfo Component:
 
 The Subinfo component complements the Maininfo section by displaying additional details or supplementary information.
 
@@ -63,7 +63,11 @@ The Subinfo component complements the Maininfo section by displaying additional 
 Contributions to enhance or expand this React application are welcome! To contribute:
 
 Fork the repository.
+
 Create a new branch.
+
 Make modifications and commit changes.
+
 Push to the branch.
+
 Create a pull request.
