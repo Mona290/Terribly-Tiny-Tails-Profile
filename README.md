@@ -3,11 +3,17 @@
 Welcome to the Terribly Tiny Tales React App! This project showcases a simple React application structured with components to display main and sub information using a Navbar.
 
 # Table of Contents
+
 Introduction
+
 Installation
+
 Usage
+
 Components
+
 Contributing
+
 License
 
 # Introduction
